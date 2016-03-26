@@ -1,0 +1,161 @@
+﻿Build started 3/24/2016 10:23:50 PM.
+     1>Project "F:\third-half\MYOMR\mytest\mytest\mytest.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt L0_Segment.cpp L1_Segment.cpp L2_Segment.cpp NoteHead.cpp NoteHeadDetection.cpp NoteStem.cpp PitchCalculation.cpp show.cpp Source.cpp StaveBoundaries.cpp StaveDetection.cpp StaveParameters.cpp StavePeaks.cpp Staves.cpp XProjection.cpp YProjection.cpp
+         YProjection.cpp
+     1>f:\opencv\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+     1>f:\opencv\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+     1>f:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+         XProjection.cpp
+     1>f:\opencv\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+     1>f:\opencv\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+     1>f:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+         Staves.cpp
+     1>f:\opencv\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+     1>f:\opencv\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+     1>f:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+         StavePeaks.cpp
+     1>f:\opencv\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+     1>f:\opencv\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+     1>f:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+         StaveParameters.cpp
+     1>f:\opencv\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+     1>f:\opencv\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+     1>f:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+         StaveDetection.cpp
+     1>f:\opencv\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+     1>f:\opencv\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+     1>f:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+     1>f:\third-half\myomr\mytest\mytest\stavedetection.cpp(229): warning C4018: '<' : signed/unsigned mismatch
+         StaveBoundaries.cpp
+     1>f:\opencv\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+     1>f:\opencv\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+     1>f:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+     1>f:\third-half\myomr\mytest\mytest\staveboundaries.cpp(72): warning C4244: '-=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\third-half\myomr\mytest\mytest\staveboundaries.cpp(73): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\third-half\myomr\mytest\mytest\staveboundaries.cpp(190): warning C4018: '<' : signed/unsigned mismatch
+         Source.cpp
+     1>f:\opencv\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+     1>f:\opencv\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+     1>f:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+         show.cpp
+     1>f:\opencv\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+     1>f:\opencv\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+     1>f:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+         PitchCalculation.cpp
+     1>f:\opencv\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+     1>f:\opencv\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+     1>f:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+         NoteStem.cpp
+         NoteHeadDetection.cpp
+     1>f:\opencv\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+     1>f:\opencv\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+     1>f:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+         NoteHead.cpp
+         L2_Segment.cpp
+     1>f:\opencv\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+     1>f:\opencv\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+     1>f:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+         L1_Segment.cpp
+     1>f:\opencv\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+     1>f:\opencv\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+     1>f:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+     1>f:\third-half\myomr\mytest\mytest\l1_segment.cpp(117): warning C4244: '-=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\third-half\myomr\mytest\mytest\l1_segment.cpp(139): warning C4101: 'accuracy' : unreferenced local variable
+     1>f:\third-half\myomr\mytest\mytest\l1_segment.cpp(133): warning C4101: 'neuralData' : unreferenced local variable
+         L0_Segment.cpp
+     1>f:\opencv\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+     1>f:\opencv\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+     1>f:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\third-half\MYOMR\mytest\Debug\mytest.exe" /INCREMENTAL /NOLOGO opencv_world310d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\third-half\MYOMR\mytest\Debug\mytest.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\third-half\MYOMR\mytest\Debug\mytest.lib" /MACHINE:X86 Debug\L0_Segment.obj
+         Debug\L1_Segment.obj
+         Debug\L2_Segment.obj
+         Debug\NoteHead.obj
+         Debug\NoteHeadDetection.obj
+         Debug\NoteStem.obj
+         Debug\PitchCalculation.obj
+         Debug\show.obj
+         Debug\Source.obj
+         Debug\StaveBoundaries.obj
+         Debug\StaveDetection.obj
+         Debug\StaveParameters.obj
+         Debug\StavePeaks.obj
+         Debug\Staves.obj
+         Debug\XProjection.obj
+         Debug\YProjection.obj
+     1>StaveParameters.obj : error LNK2001: unresolved external symbol "void __cdecl cv::fastFree(void *)" (?fastFree@cv@@YAXPAX@Z)
+     1>XProjection.obj : error LNK2001: unresolved external symbol "void __cdecl cv::fastFree(void *)" (?fastFree@cv@@YAXPAX@Z)
+     1>YProjection.obj : error LNK2001: unresolved external symbol "void __cdecl cv::fastFree(void *)" (?fastFree@cv@@YAXPAX@Z)
+     1>L1_Segment.obj : error LNK2001: unresolved external symbol "void __cdecl cv::fastFree(void *)" (?fastFree@cv@@YAXPAX@Z)
+     1>NoteHeadDetection.obj : error LNK2001: unresolved external symbol "void __cdecl cv::fastFree(void *)" (?fastFree@cv@@YAXPAX@Z)
+     1>Source.obj : error LNK2001: unresolved external symbol "void __cdecl cv::fastFree(void *)" (?fastFree@cv@@YAXPAX@Z)
+     1>StaveBoundaries.obj : error LNK2001: unresolved external symbol "void __cdecl cv::fastFree(void *)" (?fastFree@cv@@YAXPAX@Z)
+     1>StaveParameters.obj : error LNK2001: unresolved external symbol "private: char * __thiscall cv::String::allocate(unsigned int)" (?allocate@String@cv@@AAEPADI@Z)
+     1>XProjection.obj : error LNK2001: unresolved external symbol "private: char * __thiscall cv::String::allocate(unsigned int)" (?allocate@String@cv@@AAEPADI@Z)
+     1>YProjection.obj : error LNK2001: unresolved external symbol "private: char * __thiscall cv::String::allocate(unsigned int)" (?allocate@String@cv@@AAEPADI@Z)
+     1>L1_Segment.obj : error LNK2001: unresolved external symbol "private: char * __thiscall cv::String::allocate(unsigned int)" (?allocate@String@cv@@AAEPADI@Z)
+     1>NoteHeadDetection.obj : error LNK2001: unresolved external symbol "private: char * __thiscall cv::String::allocate(unsigned int)" (?allocate@String@cv@@AAEPADI@Z)
+     1>Source.obj : error LNK2001: unresolved external symbol "private: char * __thiscall cv::String::allocate(unsigned int)" (?allocate@String@cv@@AAEPADI@Z)
+     1>StaveBoundaries.obj : error LNK2001: unresolved external symbol "private: char * __thiscall cv::String::allocate(unsigned int)" (?allocate@String@cv@@AAEPADI@Z)
+     1>StaveBoundaries.obj : error LNK2001: unresolved external symbol "private: void __thiscall cv::String::deallocate(void)" (?deallocate@String@cv@@AAEXXZ)
+     1>StaveParameters.obj : error LNK2001: unresolved external symbol "private: void __thiscall cv::String::deallocate(void)" (?deallocate@String@cv@@AAEXXZ)
+     1>XProjection.obj : error LNK2001: unresolved external symbol "private: void __thiscall cv::String::deallocate(void)" (?deallocate@String@cv@@AAEXXZ)
+     1>YProjection.obj : error LNK2001: unresolved external symbol "private: void __thiscall cv::String::deallocate(void)" (?deallocate@String@cv@@AAEXXZ)
+     1>L1_Segment.obj : error LNK2001: unresolved external symbol "private: void __thiscall cv::String::deallocate(void)" (?deallocate@String@cv@@AAEXXZ)
+     1>L2_Segment.obj : error LNK2001: unresolved external symbol "private: void __thiscall cv::String::deallocate(void)" (?deallocate@String@cv@@AAEXXZ)
+     1>NoteHeadDetection.obj : error LNK2001: unresolved external symbol "private: void __thiscall cv::String::deallocate(void)" (?deallocate@String@cv@@AAEXXZ)
+     1>Source.obj : error LNK2001: unresolved external symbol "private: void __thiscall cv::String::deallocate(void)" (?deallocate@String@cv@@AAEXXZ)
+     1>StaveDetection.obj : error LNK2019: unresolved external symbol "public: void __thiscall cv::Mat::deallocate(void)" (?deallocate@Mat@cv@@QAEXXZ) referenced in function "public: __thiscall std::vector<int,class std::allocator<int> >::vector<int,class std::allocator<int> >(class std::vector<int,class std::allocator<int> > const &)" (??0?$vector@HV?$allocator@H@std@@@std@@QAE@ABV01@@Z)
+     1>StaveParameters.obj : error LNK2001: unresolved external symbol "public: void __thiscall cv::Mat::deallocate(void)" (?deallocate@Mat@cv@@QAEXXZ)
+     1>XProjection.obj : error LNK2001: unresolved external symbol "public: void __thiscall cv::Mat::deallocate(void)" (?deallocate@Mat@cv@@QAEXXZ)
+     1>YProjection.obj : error LNK2001: unresolved external symbol "public: void __thiscall cv::Mat::deallocate(void)" (?deallocate@Mat@cv@@QAEXXZ)
+     1>L1_Segment.obj : error LNK2001: unresolved external symbol "public: void __thiscall cv::Mat::deallocate(void)" (?deallocate@Mat@cv@@QAEXXZ)
+     1>NoteHeadDetection.obj : error LNK2001: unresolved external symbol "public: void __thiscall cv::Mat::deallocate(void)" (?deallocate@Mat@cv@@QAEXXZ)
+     1>Source.obj : error LNK2001: unresolved external symbol "public: void __thiscall cv::Mat::deallocate(void)" (?deallocate@Mat@cv@@QAEXXZ)
+     1>StaveBoundaries.obj : error LNK2001: unresolved external symbol "public: void __thiscall cv::Mat::deallocate(void)" (?deallocate@Mat@cv@@QAEXXZ)
+     1>StaveParameters.obj : error LNK2001: unresolved external symbol "public: void __thiscall cv::Mat::copySize(class cv::Mat const &)" (?copySize@Mat@cv@@QAEXABV12@@Z)
+     1>XProjection.obj : error LNK2001: unresolved external symbol "public: void __thiscall cv::Mat::copySize(class cv::Mat const &)" (?copySize@Mat@cv@@QAEXABV12@@Z)
+     1>YProjection.obj : error LNK2001: unresolved external symbol "public: void __thiscall cv::Mat::copySize(class cv::Mat const &)" (?copySize@Mat@cv@@QAEXABV12@@Z)
+     1>L1_Segment.obj : error LNK2001: unresolved external symbol "public: void __thiscall cv::Mat::copySize(class cv::Mat const &)" (?copySize@Mat@cv@@QAEXABV12@@Z)
+     1>NoteHeadDetection.obj : error LNK2001: unresolved external symbol "public: void __thiscall cv::Mat::copySize(class cv::Mat const &)" (?copySize@Mat@cv@@QAEXABV12@@Z)
+     1>StaveBoundaries.obj : error LNK2001: unresolved external symbol "public: void __thiscall cv::Mat::copySize(class cv::Mat const &)" (?copySize@Mat@cv@@QAEXABV12@@Z)
+     1>StaveDetection.obj : error LNK2001: unresolved external symbol "public: void __thiscall cv::Mat::copySize(class cv::Mat const &)" (?copySize@Mat@cv@@QAEXABV12@@Z)
+     1>StaveParameters.obj : error LNK2001: unresolved external symbol "public: __thiscall _IplImage::_IplImage(class cv::Mat const &)" (??0_IplImage@@QAE@ABVMat@cv@@@Z)
+     1>NoteHeadDetection.obj : error LNK2001: unresolved external symbol "public: __thiscall _IplImage::_IplImage(class cv::Mat const &)" (??0_IplImage@@QAE@ABVMat@cv@@@Z)
+     1>show.obj : error LNK2001: unresolved external symbol "public: __thiscall _IplImage::_IplImage(class cv::Mat const &)" (??0_IplImage@@QAE@ABVMat@cv@@@Z)
+     1>Source.obj : error LNK2001: unresolved external symbol "public: __thiscall _IplImage::_IplImage(class cv::Mat const &)" (??0_IplImage@@QAE@ABVMat@cv@@@Z)
+     1>StaveBoundaries.obj : error LNK2001: unresolved external symbol "public: __thiscall _IplImage::_IplImage(class cv::Mat const &)" (??0_IplImage@@QAE@ABVMat@cv@@@Z)
+     1>NoteHeadDetection.obj : error LNK2019: unresolved external symbol "class cv::Mat __cdecl cv::imread(class cv::String const &,int)" (?imread@cv@@YA?AVMat@1@ABVString@1@H@Z) referenced in function "public: void __thiscall omr_engine::NoteHeadDetection::Xprojection(int,int,int,int)" (?Xprojection@NoteHeadDetection@omr_engine@@QAEXHHHH@Z)
+     1>Source.obj : error LNK2001: unresolved external symbol "class cv::Mat __cdecl cv::imread(class cv::String const &,int)" (?imread@cv@@YA?AVMat@1@ABVString@1@H@Z)
+     1>StaveBoundaries.obj : error LNK2001: unresolved external symbol "class cv::Mat __cdecl cv::imread(class cv::String const &,int)" (?imread@cv@@YA?AVMat@1@ABVString@1@H@Z)
+     1>StaveParameters.obj : error LNK2001: unresolved external symbol "class cv::Mat __cdecl cv::imread(class cv::String const &,int)" (?imread@cv@@YA?AVMat@1@ABVString@1@H@Z)
+     1>NoteHeadDetection.obj : error LNK2019: unresolved external symbol "void __cdecl cv::circle(class cv::_InputOutputArray const &,class cv::Point_<int>,int,class cv::Scalar_<double> const &,int,int,int)" (?circle@cv@@YAXABV_InputOutputArray@1@V?$Point_@H@1@HABV?$Scalar_@N@1@HHH@Z) referenced in function "public: void __thiscall omr_engine::NoteHeadDetection::Xprojection(int,int,int,int)" (?Xprojection@NoteHeadDetection@omr_engine@@QAEXHHHH@Z)
+     1>show.obj : error LNK2019: unresolved external symbol _cvNamedWindow referenced in function "void __cdecl show(struct _IplImage *)" (?show@@YAXPAU_IplImage@@@Z)
+     1>show.obj : error LNK2019: unresolved external symbol _cvShowImage referenced in function "void __cdecl show(struct _IplImage *)" (?show@@YAXPAU_IplImage@@@Z)
+     1>show.obj : error LNK2019: unresolved external symbol _cvDestroyWindow referenced in function "void __cdecl show(class cv::Mat *)" (?show@@YAXPAVMat@cv@@@Z)
+     1>show.obj : error LNK2019: unresolved external symbol _cvWaitKey referenced in function "void __cdecl show(struct _IplImage *)" (?show@@YAXPAU_IplImage@@@Z)
+     1>Source.obj : error LNK2019: unresolved external symbol _cvCreateImage referenced in function "void __cdecl dec(void)" (?dec@@YAXXZ)
+     1>Source.obj : error LNK2019: unresolved external symbol _cvGetSize referenced in function "void __cdecl dec(void)" (?dec@@YAXXZ)
+     1>Source.obj : error LNK2019: unresolved external symbol _cvCopy referenced in function "void __cdecl dec(void)" (?dec@@YAXXZ)
+     1>Source.obj : error LNK2019: unresolved external symbol _cvCreateMemStorage referenced in function "void __cdecl dec(void)" (?dec@@YAXXZ)
+     1>Source.obj : error LNK2019: unresolved external symbol _cvCvtColor referenced in function "void __cdecl dec(void)" (?dec@@YAXXZ)
+     1>Source.obj : error LNK2019: unresolved external symbol _cvFindContours referenced in function "void __cdecl dec(void)" (?dec@@YAXXZ)
+     1>Source.obj : error LNK2019: unresolved external symbol _cvFitEllipse2 referenced in function "void __cdecl dec(void)" (?dec@@YAXXZ)
+     1>Source.obj : error LNK2019: unresolved external symbol _cvThreshold referenced in function "void __cdecl dec(void)" (?dec@@YAXXZ)
+     1>Source.obj : error LNK2019: unresolved external symbol _cvCanny referenced in function "void __cdecl dec(void)" (?dec@@YAXXZ)
+     1>Source.obj : error LNK2019: unresolved external symbol _cvEllipse referenced in function _cvEllipseBox
+     1>Source.obj : error LNK2019: unresolved external symbol _cvSaveImage referenced in function "void __cdecl dec(void)" (?dec@@YAXXZ)
+     1>StaveBoundaries.obj : error LNK2019: unresolved external symbol "void __cdecl cv::error(int,class cv::String const &,char const *,char const *,int)" (?error@cv@@YAXHABVString@1@PBD1H@Z) referenced in function "public: unsigned char * __thiscall cv::Mat::ptr<unsigned char>(int)" (??$ptr@E@Mat@cv@@QAEPAEH@Z)
+     1>StaveParameters.obj : error LNK2001: unresolved external symbol "void __cdecl cv::error(int,class cv::String const &,char const *,char const *,int)" (?error@cv@@YAXHABVString@1@PBD1H@Z)
+     1>XProjection.obj : error LNK2001: unresolved external symbol "void __cdecl cv::error(int,class cv::String const &,char const *,char const *,int)" (?error@cv@@YAXHABVString@1@PBD1H@Z)
+     1>YProjection.obj : error LNK2001: unresolved external symbol "void __cdecl cv::error(int,class cv::String const &,char const *,char const *,int)" (?error@cv@@YAXHABVString@1@PBD1H@Z)
+     1>YProjection.obj : error LNK2019: unresolved external symbol "public: void __thiscall cv::Mat::create(int,int const *,int)" (?create@Mat@cv@@QAEXHPBHH@Z) referenced in function "public: void __thiscall cv::Mat::create(int,int,int)" (?create@Mat@cv@@QAEXHHH@Z)
+     1>YProjection.obj : error LNK2019: unresolved external symbol "bool __cdecl cv::imwrite(class cv::String const &,class cv::_InputArray const &,class std::vector<int,class std::allocator<int> > const &)" (?imwrite@cv@@YA_NABVString@1@ABV_InputArray@1@ABV?$vector@HV?$allocator@H@std@@@std@@@Z) referenced in function "public: void __thiscall omr_engine::YProjection::printYProjection(void)" (?printYProjection@YProjection@omr_engine@@QAEXXZ)
+     1>F:\third-half\MYOMR\mytest\Debug\mytest.exe : fatal error LNK1120: 26 unresolved externals
+     1>Done Building Project "F:\third-half\MYOMR\mytest\mytest\mytest.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:10.30
